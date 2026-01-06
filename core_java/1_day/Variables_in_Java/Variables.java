@@ -3,7 +3,8 @@ public class Variables {
         //numeric variables 
         int age = 10;
         System.out.println("The age of the person is : "+ age );
-
+        
+        //non-numeric variables
         String name = "Dev";
         System.out.println("The name of the person is : "+ name);
 
